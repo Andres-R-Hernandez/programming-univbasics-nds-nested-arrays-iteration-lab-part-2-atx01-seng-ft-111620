@@ -15,5 +15,5 @@ def find_min_in_nested_arrays(src)
     daily_min_list << daily_min
     count_1 += 1
   end
-
+daily_min_list
 end
